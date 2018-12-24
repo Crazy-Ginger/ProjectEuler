@@ -1,0 +1,16 @@
+#Ignore everything
+*
+
+#Whitelisting all directories
+!*/
+
+
+#File types to be dumped in the repository
+'gitattributes
+.gitignore
+!*.cpp
+!*.txt
+!*.py
+
+#Ignores Testing
+Testing.cpp
