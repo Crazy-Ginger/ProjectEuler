@@ -12,7 +12,7 @@ int main()
 	vector <int> values(0);
 	char release;
 	fstream f_words;
-	f_words.open("C:/Coding/Cpp_code/Euler_Files/Problem42_words.txt");
+	f_words.open("C:/Coding/Project_Euler/Cpp/Euler_Files/Problem42_words.txt");
 	
 	for (int i = 1; i < 100 ; i++)
 		{
